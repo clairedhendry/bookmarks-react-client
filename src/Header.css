@@ -1,0 +1,14 @@
+.header {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: black;
+    color: white;
+    width: 100vw;
+    height: 150px;
+}
+
+h1 {
+    margin-top: auto;
+    margin-bottom: auto;
+}

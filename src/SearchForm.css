@@ -1,0 +1,28 @@
+.search_form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.search_bar {
+    background-color: gray;
+    display: flex;
+  justify-content: center;
+    align-content: center;
+    width: 100vw;
+    height: 50px;
+    padding: 5px;
+}
+
+input {
+    height: 20px;
+    margin: 10px;
+}
+
+button {
+    height: 25px;
+    margin: 10px;
+}
